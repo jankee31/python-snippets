@@ -1,3 +1,3 @@
-# python-snippet
+# python-snippets
 
 Assignment projects of Python Specialization.
